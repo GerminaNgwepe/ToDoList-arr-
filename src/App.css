@@ -1,0 +1,99 @@
+.two{
+  background-color: aquamarine;
+  width: 712px;
+  background-image: url('beutifull-lake-view-1.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.one{
+  background-color: #D9D9D9;
+  width: 312px;
+  height: 725px;
+  opacity:84% ;
+}
+.main{
+justify-content: center;
+  display: flex;
+  margin-top: 90px;
+  
+}
+.headtext{
+  color:white;
+  background-color: silver;
+  width: 390px;
+}
+.todo-row{
+  background-color: #D9D9D9;
+  opacity: 84%;
+  margin: 14px;
+  display: flex;
+  padding: 14px;
+  width: 70%;
+  justify-content: space-between;
+}
+
+.todo-input{
+  padding: 10px;
+  margin: 14px;
+  width: 60%;
+  
+}
+.todo-button{
+padding: 10px;
+}
+.user{
+  background-color: white;
+  width: 45%;
+  padding: 6px;
+  border-radius: 10px;
+  margin-top: 40px;
+  margin-left: 40px ;
+  margin-bottom: 20px;
+}
+.search{
+  margin-left: 40px;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+}
+ul{
+  list-style-type: none;
+}
+li{
+  margin-top: 40px;
+}
+/*  footer{
+  background-color: black;
+  width: 96%;
+  height: 8%;
+  color: white;
+  font-size: xx-large;
+
+  margin-left: 10px;
+}  */
+.pic{
+  width: 20px;
+  padding-right: 8px;
+
+}
+.delete-icon{
+  background-color: aqua;
+}
+.edit-icon{
+  background-color: orange;
+}
+.todo-button{
+  background-color:black;
+  color: aliceblue;
+}
+.todo-button-edit{
+  background-color:rgb(131, 131, 179);
+}
+.todo-input{
+  background-color: #D9D9D9;
+  opacity: 86%;
+  border: none;
+  color: black;
+
+}
